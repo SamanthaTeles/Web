@@ -1,0 +1,18 @@
+
+#overlay { 
+  position:absolute; 
+  left:0; 
+  top:0; 
+  width:100%;
+  height:100%; 
+  background:black; 
+}
+#excluder { 
+  width:350px;
+  height:350px;
+  position:absolute; 
+  border-radius:100%; 
+  transform:translate(0,0);
+  box-shadow:0 0 70px 75px black inset, 0 0 2px 2px black inset, 0 0 2px 2px black inset, 0 0 2px 2px black inset, 0 0 2px 2px black inset, 0 0 2px 2px black inset;  
+  background:url(https://scontent-iad3-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12249668_10208408578395266_9084687547065298007_n.jpg?oh=468a3f846f8c5d5110711e3c16b71ea1&oe=56AE1233);  
+}

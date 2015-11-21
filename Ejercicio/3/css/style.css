@@ -1,0 +1,37 @@
+ p {
+	    position: relative;
+	    font-size: 30px;
+	    width: 400px;
+	    height: 90px;
+	    font-family: Helvetica;
+	    color: white;
+	  
+}
+div {
+	    position: absolute;
+	    width: 500px;
+	    height: 85px;
+	    font-size: 36px;
+	    text-align: center;
+	    color: black;
+	    background: yellow;
+	    padding-top: 40px;
+	    top: 0;
+	    left: 0;
+	    display: none;
+	    font-family: Helvetica;
+
+}
+span {
+	    display: none;
+}
+a{
+	color: white;
+}
+
+
+body{
+	height: 500px;
+	width: 700px;
+	background-color: black;
+}
